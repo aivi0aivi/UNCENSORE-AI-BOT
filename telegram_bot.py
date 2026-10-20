@@ -24,7 +24,7 @@ from telegram.ext import (
 API_BASE_URL = os.environ.get("API_BASE_URL", "https://win-ik7n6sd2ubu.zeedonk-carat.ts.net/v1")
 HEALTH_URL = os.environ.get("HEALTH_URL", "https://win-ik7n6sd2ubu.zeedonk-carat.ts.net/health")
 
-REQUEST_TIMEOUT = 180
+REQUEST_TIMEOUT = 600
 MAX_TELEGRAM_MESSAGE = 4000
 MAX_HISTORY_MESSAGES = 10
 
