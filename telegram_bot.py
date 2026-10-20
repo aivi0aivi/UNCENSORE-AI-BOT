@@ -21,8 +21,8 @@ from telegram.ext import (
 # CONFIGURATION
 # --------------------------------------------------
 # IMPORTANT: Yahan apna Tailscale URL daalo (Render se local AI connect karne ke liye)
-API_BASE_URL = os.environ.get("API_BASE_URL", "https://win-ik7n6sd2ubu.jackalope-algol.ts.net/v1")
-HEALTH_URL = os.environ.get("HEALTH_URL", "https://win-ik7n6sd2ubu.jackalope-algol.ts.net/health")
+API_BASE_URL = os.environ.get("API_BASE_URL", "https://win-ik7n6sd2ubu.zeedonk-carat.ts.net/v1")
+HEALTH_URL = os.environ.get("HEALTH_URL", "https://win-ik7n6sd2ubu.zeedonk-carat.ts.net/health")
 
 REQUEST_TIMEOUT = 180
 MAX_TELEGRAM_MESSAGE = 4000
