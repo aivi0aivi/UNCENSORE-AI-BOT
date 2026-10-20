@@ -19,8 +19,8 @@ from telegram.ext import (
 # CONFIGURATION
 # --------------------------------------------------
 
-API_BASE_URL = "http://127.0.0.1:8081/v1"
-HEALTH_URL = "http://127.0.0.1:8081/health"
+API_BASE_URL = "https://win-ik7n6sd2ubu.zeedonk-carat.ts.net/v1"
+HEALTH_URL = "https://win-ik7n6sd2ubu.zeedonk-carat.ts.net/health"
 
 REQUEST_TIMEOUT = 180
 MAX_TELEGRAM_MESSAGE = 4000
